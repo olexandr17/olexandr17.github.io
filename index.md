@@ -12,4 +12,4 @@
 
 - [Email](mailto:olexandr.fedorow@gmail.com)
 
-- [Skype](skype:www.olexandr)
+- [Skype](callto:www.olexandr)
