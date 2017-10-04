@@ -2,9 +2,9 @@
 
 ## Laws of Boolean algebra
 
-`(A && B) || C = (A || C) && (B || C)`
+`(A && B) || C == (A || C) && (B || C)`
 
-`(A || B) && C = (A && C) || (B && C)`
+`(A || B) && C == (A && C) || (B && C)`
 
 
 `!(A && B) == !A || !B`
