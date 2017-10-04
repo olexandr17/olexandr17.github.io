@@ -1,2 +1,1 @@
-[Google](https://google.com.ua)
-[Site](http://www.olexandr.org)
+- [Laws of Boolean algebra](logic.md)
