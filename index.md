@@ -44,6 +44,8 @@
 
 - [Email](mailto:olexandr.fedorow@gmail.com)
 
+- [Telegram](https://t.me/olexandr17)
+
 - [Skype](callto:www.olexandr)
 
 - [Facebook](https://www.facebook.com/olexandr.fedorow)
