@@ -1,4 +1,4 @@
-[Main](index.md)
+[Main](/index.md)
 
 ## Laws of Boolean algebra
 

@@ -1,38 +1,38 @@
 ## Posts:
 
-- 17.10.04 [Laws of Boolean algebra](logic.md)
+- 17.10.04 [Laws of Boolean algebra](/posts/logic.md)
 
-- 15.10.09 [Каталог обучающих ресурсов](catalog.md)
+- 15.10.09 [Каталог обучающих ресурсов](/posts/catalog.md)
 
-- 15.09.18 - [Первое рабочее приложение на WPF](cs_wpf.md)
+- 15.09.18 [Первое рабочее приложение на WPF](/posts/cs_wpf.md)
 
-- 15.07.23 - [Arkanoid](arkanoid.md)
+- 15.07.23 - [Arkanoid](/posts/arkanoid.md)
 
-- 15.03.31 - [2048](2048.md)
+- 15.03.31 - [2048](/posts/2048.md)
 
-- 15.03.24 - [Installing environment for android-development](android_environment.md)
+- 15.03.24 [Installing environment for android-development](/posts/android_environment.md)
 
-- 15.02.20 - [С#. OFPerforceTool](cs_perforce_tool.md)
+- 15.02.20 [С#. OFPerforceTool](/posts/cs_perforce_tool.md)
 
-- 15.02.20 - [C#. Доступ к сети](cs_network.md)
+- 15.02.20 [C#. Доступ к сети](/posts/cs_network.md)
 
-- 12.12.01 - [Мой первый Android](android.md)
+- 12.12.01 [Мой первый Android](/posts/android.md)
 
-- 12.12.01 - [C#. Первый блин…](cs_first.md)
+- 12.12.01 [C#. Первый блин…](/posts/cs_first.md)
 
-- 12.08.12 - [FlashDevelop. Настройки](fd_settings.md)
+- 12.08.12 [FlashDevelop. Настройки](/posts/fd_settings.md)
 
-- 12.08.12 - [FlashDevelop. Плагины](fd_plugins.md)
+- 12.08.12 [FlashDevelop. Плагины](/posts/fd_plugins.md)
 
-- 12.04.07 - [Первый блин комом!](timelapse_1.md)
+- 12.04.07 - [Первый блин комом!](/posts/timelapse_1.md)
 
-- 11.06.20 - [Ольвия](olvia.md)
+- 11.06.20 [Ольвия](/posts/olvia.md)
 
-- 11.06.16 - [Как поменять значения двух переменных без использования третьей](values_change.md)
+- 11.06.16 [Как поменять значения двух переменных без использования третьей](/posts/values_change.md)
 
-- 11.06.16 - [Лунное затмение](eclipse.md)
+- 11.06.16 - [Лунное затмение](/posts/eclipse.md)
 
-- 11.03.25 [Тестовая запись. Мой логотип…](logo.md)
+- 11.03.25 [Тестовая запись. Мой логотип…](/posts/logo.md)
 
 
 ## Useful Links:
