@@ -2,3 +2,4 @@
 
 ## Arkanoid
 
+[Play](/resources/arkanoid.swf)

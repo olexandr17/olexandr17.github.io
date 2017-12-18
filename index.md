@@ -6,9 +6,9 @@
 
 - 15.09.18 [Первое рабочее приложение на WPF](/posts/cs_wpf.md)
 
-- 15.07.23 - [Arkanoid](/posts/arkanoid.md)
+- 15.07.23 [Arkanoid](/posts/arkanoid.md)
 
-- 15.03.31 - [2048](/posts/2048.md)
+- 15.03.31 [2048](/posts/2048.md)
 
 - 15.03.24 [Installing environment for android-development](/posts/android_environment.md)
 
@@ -24,13 +24,13 @@
 
 - 12.08.12 [FlashDevelop. Плагины](/posts/fd_plugins.md)
 
-- 12.04.07 - [Первый блин комом!](/posts/timelapse_1.md)
+- 12.04.07 [Первый блин комом!](/posts/timelapse_1.md)
 
 - 11.06.20 [Ольвия](/posts/olvia.md)
 
 - 11.06.16 [Как поменять значения двух переменных без использования третьей](/posts/values_change.md)
 
-- 11.06.16 - [Лунное затмение](/posts/eclipse.md)
+- 11.06.16 [Лунное затмение](/posts/eclipse.md)
 
 - 11.03.25 [Тестовая запись. Мой логотип…](/posts/logo.md)
 
