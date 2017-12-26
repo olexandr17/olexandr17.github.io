@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<ball url="assets/ball.png"/>
+	<platform url="assets/platform.png"/>
+	<bricks url="assets/bricks.png" rows="3" cols="8"/>
+	<levels lifes="3">
+		<item speed="8">111111111111|111111111111|111111111111</item>
+		<item speed="12">111111111111|110000000011|110000000011|111111111111</item>
+		<item speed="16">111111111111|110001100011|110001100011|110001100011|111111111111</item>
+	</levels>
+</data>
