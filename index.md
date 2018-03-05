@@ -1,5 +1,7 @@
 ## Posts:
 
+- 18.03.05 [Angular Cheatsheet](/posts/angular_cheatsheet.md)
+
 - 17.10.04 [Laws of Boolean algebra](/posts/logic.md)
 
 - 15.10.09 [Каталог обучающих ресурсов](/posts/catalog.md)
