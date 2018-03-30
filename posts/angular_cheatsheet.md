@@ -1,9 +1,6 @@
 ﻿[Main](/index.md)
 
 
-[GitHub](https://github.com/angular/angular-cli#generating-and-serving-an-angular-project-via-a-development-server)
-
-
 __Installation__
 
 - `npm i -g @angular/cli`
