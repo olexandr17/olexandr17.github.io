@@ -9,6 +9,7 @@ __Installation__
 __Create new project__
 
 - `ng new [name]`
+- `ng new [name] --skip-test` (without tests)
 - `ng new [name] --minimal` (without tests and with inline templates)
 - `ng new [name] --inline-template` (with inline templates)
 - `ng new [name] --inline-style` (with inline styles)
@@ -17,10 +18,17 @@ __Create new project__
 - `ng new [name] --prefix=myapp` (prefix for selectors)
 - `ng new [name] --skip-git`
 
+Example: `ng new FETestApp --skip-test --style=scss --routing --prefix=u`
+
 
 __Run the apllication__
 
 - `ng serve --host 0.0.0.0 --port 4201`
+
+
+__Change Package Manager__
+
+- `ng set --global packageManager=yarn`
 
 
 __Generate scaffolds__
@@ -43,9 +51,3 @@ __Add Material__
 - *index.html* - `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">`
 - *styles.less* - `@import "~@angular/material/prebuilt-themes/indigo-pink.css";`
 - *app.module.ts* - `imports: [BrowserAnimationsModule]`
-
-
-__Add Flex-Layout__
-
-- `npm i @angular/flex-layout`
-- *app.module.ts* - `imports: [FlexLayoutModule]`
